@@ -10,4 +10,5 @@ git pull origin master
 
 git commit -m “Your Description”
 
-git push master
+git push origin master 
+git push origin master --force
